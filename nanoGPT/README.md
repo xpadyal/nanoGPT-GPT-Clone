@@ -2,6 +2,9 @@
 
 Welcome to the repository for building a GPT (Generative Pre-trained Transformer) model from scratch. This project was developed as part of the "Zero to Hero in Neural Networks" course by Andrej Karpathy. The goal is to provide a hands-on understanding of how modern language models like GPT are constructed and trained.
 
+## Check out post here: 
+https://www.linkedin.com/posts/sahil-padyal_ai-machinelearning-gpt-activity-7206758862731812864-BJ3b?utm_source=share&utm_medium=member_desktop
+
 ## Table of Contents
 - [Overview](#overview)
 - [Implementation Details](#implementation-details)
